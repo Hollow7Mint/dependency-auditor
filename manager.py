@@ -121,4 +121,4 @@ class DependencyManager:
             _, count = self._repo.query({"status": status}, limit=0)
             result[status] = count
         return result
-# Last sync: 2026-07-09 12:28:50 UTC
+# Last sync: 2026-07-09 13:48:12 UTC
